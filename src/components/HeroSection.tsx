@@ -139,7 +139,7 @@ export function HeroSection() {
                       alt={PROFILE.portraitAlt}
                       referrerPolicy="no-referrer"
                       onError={() => setImgError(true)}
-                      className="h-full w-full object-cover object-[50%_26%]"
+                      className="h-full w-full object-cover object-[50%_20%]"
                     />
                   ) : (
                     <div className="flex h-full w-full flex-col items-center justify-center bg-gradient-to-br from-[#13202B] via-[#0E1319] to-[#1F180D] p-6 text-center">

@@ -65,8 +65,8 @@ export const PROFILE = {
   programTag: 'NxtWave NIAT',
   location: 'Tamil Nadu, India',
   email: 'krishna1604m@gmail.com',
-  portrait: '/assets/aistudio/3_682661c8.jpeg',
-  portraitAlt: 'Portrait of Mohan Krishna C',
+  portrait: '/assets/aistudio/4_47665cae.jpeg',
+  portraitAlt: 'Monochrome studio portrait of Mohan Krishna C',
   socials: {
     github: {
       label: 'GitHub',
